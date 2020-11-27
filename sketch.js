@@ -7,7 +7,8 @@ var ground, d1, d2, d3, d4, d5, d6, d7;
 var engine, world;
 var plinkos = [];
 var particles = [];
-
+// hello 
+// setup function
 
 function setup() {
   createCanvas(480,800);
